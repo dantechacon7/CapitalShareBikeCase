@@ -1,4 +1,4 @@
-/* Datetime: transformar esse campo em dois, sendo um o 'date' e outro o 'time' para construir filtros e visualizações agrupadas por horários, datas, e demais sazonalidades - mês, semana, etc.*/
+* Datetime: transformar esse campo em dois, sendo um o 'date' e outro o 'time' para construir filtros e visualizações agrupadas por horários, datas, e demais sazonalidades - mês, semana, etc.*/
 
 /* Separando a coluna 'datetime' em duas - date e time*/
 SELECT 
